@@ -36,7 +36,7 @@ TalentHub empowers young and unknown football players to upload their match high
 - **Firebase Firestore** – Real-time database
 - **Firebase Messaging** – Real-time chat and notifications
 
-## 📷 Screenshots (optional)
+## 📷 Screenshots
 
 ![Image](https://github.com/user-attachments/assets/60d657b1-bdb5-405c-ac7f-c31eebbc56e2)
 
